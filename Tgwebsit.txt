@@ -72,6 +72,44 @@ footer {
     margin-top: -30px !important;   /* رفع القسم بالكامل للأعلى */
     padding-bottom: 40px !important; /* الحفاظ على مسافة تحت الكلام */
 }
+/* تقليل الفراغ تحت قسم الأسئلة */
+.faq-section {
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* تقليل الفراغ فوق قسم المقالات ورفعه للأعلى */
+#latest-posts {
+    margin-top: -2px !important; /* ارفع القيمة لـ -60px إذا أردت تقريبهما أكثر */
+    padding-top: 0 !important;
+}
+
+/* إزالة أي خطوط فاصلة أو مساحات بينهما */
+.main-wrapper {
+    gap: 0 !important;
+}
+/* تقليل الفراغ تحت قسم الهيرو (تحت زر دخول البوت) */
+.hero {
+    padding-bottom: 20px !important; /* القيمة الأصلية غالباً تكون 80 أو 100 */
+    margin-bottom: 0 !important;
+}
+
+/* تقليل الفراغ فوق قسم Why Professionals Choose Us */
+#features, .features-section {
+    padding-top: 30px !important;   /* لرفعه للأعلى */
+    margin-top: -4px !important;  /* سحب القسم للأعلى أكثر */
+}
+/* رفع قسم الأسئلة الشائعة للأعلى */
+#faq, .faq-section {
+    margin-top: -0.3px !important; /* ارفع الرقم لـ -80px إذا أردت تقريبه أكثر */
+    padding-top: 60px !important;  /* تقليل المساحة الداخلية العلوية */
+}
+
+/* تقليل المساحة السفلية للقسم الذي يسبق الأسئلة */
+#features, .features-section {
+    padding-bottom: 20px !important;
+    margin-bottom: 0 !important;
+}
     ]]></b:skin>
 
     <style>
