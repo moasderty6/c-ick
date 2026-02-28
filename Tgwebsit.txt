@@ -52,6 +52,26 @@
         .post-body { color: white; line-height: 1.8; font-size: 1.1rem; }
         .date-header { display: none; }
         .post-title { color: #00d2ff; font-family: 'Orbitron', sans-serif; margin-bottom: 20px; }
+/* إخفاء الروابط الزرقاء (رسائل أحدث، الصفحة الرئيسية، رسائل أقدم) */
+#blog-pager, .blog-pager, .home-link, .feed-links {
+    display: none !important;
+}
+
+/* إخفاء الخطوط الرفيعة والمساحات الزائدة التي تظهر حول المقالات */
+.date-header, .post-footer, .status-msg-wrap {
+    display: none !important;
+}
+/* تنظيف المساحة السفلية */
+.date-outer {
+    border: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+footer {
+    padding-top: 10px !important;    /* تقليل المساحة فوق الكلام */
+    margin-top: -30px !important;   /* رفع القسم بالكامل للأعلى */
+    padding-bottom: 40px !important; /* الحفاظ على مسافة تحت الكلام */
+}
     ]]></b:skin>
 
     <style>
