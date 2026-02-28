@@ -375,15 +375,6 @@ footer {
                 </div>
             </section>
 
-            <section id='privacy' style='background: rgba(0,210,255,0.03);'>
-                <h2 class='section-title' lang-role='ar' style='font-size: 1.4rem;'>الخصوصية والشروط</h2>
-                <h2 class='section-title' lang-role='en' style='font-size: 1.4rem;'>Privacy &amp; Terms</h2>
-                <p style='font-size: 0.9rem; color: #777; text-align: center; max-width: 800px; margin: 0 auto;'>
-                    <span lang-role='ar'>NaiF CHarT هو أداة مساعدة للتحليل وليس نصيحة مالية استثمارية. مسؤولية التداول تقع على عاتق المستخدم. نحن نلتزم بحماية خصوصيتك ولا نجمع أي بيانات شخصية.</span>
-                    <span lang-role='en'>NaiF CHarT is an analytical aid and not financial investment advice. Trading responsibility lies with the user. We are committed to protecting your privacy and do not collect personal data.</span>
-                </p>
-            </section>
-
             <section id='latest-posts' style='padding: 40px 8%;'>
                 <h2 class='section-title' lang-role='ar'>آخر المقالات والتحديثات</h2>
                 <h2 class='section-title' lang-role='en'>Latest Updates</h2>
@@ -1229,6 +1220,14 @@ footer {
 </b:includable>
                   </b:widget>
                 </b:section>
+            </section>
+          <section id='privacy' style='background: rgba(0,210,255,0.03);'>
+                <h2 class='section-title' lang-role='ar' style='font-size: 1.4rem;'>الخصوصية والشروط</h2>
+                <h2 class='section-title' lang-role='en' style='font-size: 1.4rem;'>Privacy &amp; Terms</h2>
+                <p style='font-size: 0.9rem; color: #777; text-align: center; max-width: 800px; margin: 0 auto;'>
+                    <span lang-role='ar'>NaiF CHarT هو أداة مساعدة للتحليل وليس نصيحة مالية استثمارية. مسؤولية التداول تقع على عاتق المستخدم. نحن نلتزم بحماية خصوصيتك ولا نجمع أي بيانات شخصية.</span>
+                    <span lang-role='en'>NaiF CHarT is an analytical aid and not financial investment advice. Trading responsibility lies with the user. We are committed to protecting your privacy and do not collect personal data.</span>
+                </p>
             </section>
         </b:if>
 
