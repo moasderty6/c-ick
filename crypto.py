@@ -154,7 +154,7 @@ async def ai_opportunity_radar(pool):
         await asyncio.sleep(84000) # انتطار الدورة القادمة
 async def daily_channel_post():
     # معرف القناة (تأكد من كتابة يوزر قناتك هنا)
-    CHANNEL_ID = "@p2p_LRN" 
+    CHANNEL_ID = "@AiCryptoGPT" 
     
     while True:
         try:
@@ -217,7 +217,7 @@ async def daily_channel_post():
             print(f"Error in channel post: {e}")
             
         # الانتظار 24 ساعة (86400 ثانية)
-        await asyncio.sleep(86400) 
+        await asyncio.sleep(21600) 
 
 
 # --- نظام الـ AI ---
@@ -522,7 +522,7 @@ async def on_startup(app):
         for uid in initial_paid_users:
             await conn.execute("INSERT INTO paid_users (user_id) VALUES ($1) ON CONFLICT DO NOTHING", uid)
     
-    #asyncio.create_task(ai_opportunity_radar(pool))  # تم التعليق لإيقاف الرادار عند التشغيل
+    asyncio.create_task(ai_opportunity_radar(pool))  # تم التعليق لإيقاف الرادار عند التشغيل
     asyncio.create_task(daily_channel_post())
     await bot.set_webhook(f"{WEBHOOK_URL}/")
 
