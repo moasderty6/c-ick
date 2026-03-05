@@ -31,17 +31,35 @@
 
     <link href='https://www.tgcryptobot.com/favicon.ico' rel='apple-touch-icon'/>
     <link expr:href='data:blog.url' rel='canonical'/>
-
     <script type='application/ld+json'>
-    {
-      &quot;@context&quot;: &quot;https://schema.org&quot;,
-      &quot;@type&quot;: &quot;WebSite&quot;,
-      &quot;name&quot;: &quot;NaiF CHarT&quot;,
-      &quot;alternateName&quot;: &quot;نايف شارت&quot;,
-      &quot;url&quot;: &quot;https://www.tgcryptobot.com/&quot;
+[
+  {
+    &quot;@context&quot;: &quot;https://schema.org&quot;,
+    &quot;@type&quot;: &quot;WebSite&quot;,
+    &quot;name&quot;: &quot;NaiF CHarT&quot;,
+    &quot;alternateName&quot;: &quot;نايف شارت&quot;,
+    &quot;url&quot;: &quot;https://www.tgcryptobot.com/&quot;
+  },
+  {
+    &quot;@context&quot;: &quot;https://schema.org&quot;,
+    &quot;@type&quot;: &quot;SoftwareApplication&quot;,
+    &quot;name&quot;: &quot;NaiF CHarT AI&quot;,
+    &quot;operatingSystem&quot;: &quot;Web, Telegram, iOS, Android&quot;,
+    &quot;applicationCategory&quot;: &quot;FinanceApplication&quot;,
+    &quot;description&quot;: &quot;نظام الذكاء الاصطناعي الأقوى لتتبع سيولة الحيتان وتحليل العملات الرقمية لحظيا&#1611;.&quot;,
+    &quot;aggregateRating&quot;: {
+      &quot;@type&quot;: &quot;AggregateRating&quot;,
+      &quot;ratingValue&quot;: &quot;4.9&quot;,
+      &quot;reviewCount&quot;: &quot;62000&quot;
+    },
+    &quot;offers&quot;: {
+      &quot;@type&quot;: &quot;Offer&quot;,
+      &quot;price&quot;: &quot;0&quot;,
+      &quot;priceCurrency&quot;: &quot;USD&quot;
     }
-    </script>
-    
+  }
+]
+</script> 
     <link href='https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&amp;family=Orbitron:wght@400;700;900&amp;display=swap' rel='stylesheet'/>
 
     
