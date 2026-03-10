@@ -7,7 +7,7 @@
     <meta content='width=device-width, initial-scale=1.0' name='viewport'/>
 
     <b:if cond='data:blog.url == data:blog.homepageUrl'>
-        <title>Tg Crypto Bot | بوت تحليل العملات الرقمية | Crypto Whale Tracker</title>
+        <title>Tg Crypto Bot | بوت تحليل العملات الرقمية</title>
         
         <meta content='Tg Crypto Bot | هو البوت الأقوى لتحليل العملات الرقمية وتتبع الحيتان باستخدام الذكاء الاصطناعي|The most powerful AI-based crypto analysis and whale tracking bot.' name='description'/>
     <b:else/>
@@ -21,12 +21,12 @@
     <meta content='Tg Crypto Bot' property='og:site_name'/>
     <meta content='Tg Crypto Bot | بوت تحليل العملات الرقمية 🐋' property='og:title'/>
     <meta content='اقوى بوت تليجرام لتتبع سيولة الحيتان وتحليل العملات لحظياً. انضم لـ 60 ألف متداول واقتنص الانفجارات السعرية قبل حدوثها!' property='og:description'/>
-    <meta content='https://i.postimg.cc/jS21FMBS/FEAC90AA-AD69-4DA8-B4CD-7791EA8FEECF.jpg' property='og:image'/>
+    <meta content='https://i.postimg.cc/qqNGdYN5/IMG-7150.jpg' property='og:image'/>
     <meta content='https://www.tgcryptobot.com/' property='og:url'/> 
     <meta content='summary_large_image' name='twitter:card'/>
     <meta content='Tg Crypto Bot | The Ultimate Whale Hunter Bot 🚀' name='twitter:title'/>
     <meta content='Track smart money and whale movements in real-time. Join the elite 1% of traders using AI power.' name='twitter:description'/>
-    <meta content='https://i.postimg.cc/jS21FMBS/FEAC90AA-AD69-4DA8-B4CD-7791EA8FEECF.jpg' name='twitter:image'/>
+    <meta content='https://i.postimg.cc/qqNGdYN5/IMG-7150.jpg' name='twitter:image'/>
     <link href='https://www.tgcryptobot.com/favicon.ico' rel='icon' type='image/x-icon'/>
     <link href='https://www.tgcryptobot.com/favicon.ico' rel='apple-touch-icon'/>
     <link expr:href='data:blog.url' rel='canonical'/>
@@ -36,7 +36,7 @@
     &quot;@context&quot;: &quot;https://schema.org&quot;,
     &quot;@type&quot;: &quot;WebSite&quot;,
     &quot;name&quot;: &quot;Tg Crypto Bot&quot;,
-    &quot;alternateName&quot;: &quot;نايف شارت&quot;,
+    &quot;alternateName&quot;: &quot;بوت تحليل العملات&quot;,
     &quot;url&quot;: &quot;https://www.tgcryptobot.com/&quot;
   },
   {
