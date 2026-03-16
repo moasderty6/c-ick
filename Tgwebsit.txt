@@ -59,7 +59,7 @@
   }
 ]
 </script> 
-    <link href='https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&amp;family=Orbitron:wght@400;700;900&amp;display=swap' rel='stylesheet'/>
+  <link href='https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&amp;family=Orbitron:wght@400;700;900&amp;display=swap' rel='stylesheet'/>
     <b:skin><![CDATA[
         /* كود إخفاء عناصر بلوجر الافتراضية */
         header, .header-outer, .Header, #header, .header-cap, .tabs-inner, .footer-outer, .main-outer { display: none !important; }
