@@ -22,12 +22,12 @@
     <meta content='Tg Crypto Bot' property='og:site_name'/>
     <meta content='Tg Crypto Bot | بوت تحليل العملات الرقمية 🐋' property='og:title'/>
     <meta content='اقوى بوت تليجرام لتتبع سيولة الحيتان وتحليل العملات لحظياً. انضم لـ 60 ألف متداول واقتنص الانفجارات السعرية قبل حدوثها!' property='og:description'/>
-    <meta content='https://i.postimg.cc/qqNGdYN5/IMG-7150.jpg' property='og:image'/>
+    <meta content='https://i.postimg.cc/J4McYfqb/A4C7BE43-1A41-4508-AC58-42D9B991E710.png' property='og:image'/>
     <meta content='https://www.tgcryptobot.com/' property='og:url'/> 
     <meta content='summary_large_image' name='twitter:card'/>
     <meta content='Tg Crypto Bot | The Ultimate Whale Hunter Bot 🚀' name='twitter:title'/>
     <meta content='Track smart money and whale movements in real-time. Join the elite 1% of traders using AI power.' name='twitter:description'/>
-    <meta content='https://i.postimg.cc/qqNGdYN5/IMG-7150.jpg' name='twitter:image'/>
+    <meta content='https://i.postimg.cc/J4McYfqb/A4C7BE43-1A41-4508-AC58-42D9B991E710.png' name='twitter:image'/>
     <link href='https://www.tgcryptobot.com/favicon.ico' rel='icon' type='image/x-icon'/>
     <link href='https://www.tgcryptobot.com/favicon.ico' rel='apple-touch-icon'/>
     <link expr:href='data:blog.url' rel='canonical'/>
